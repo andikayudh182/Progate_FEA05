@@ -27,7 +27,7 @@
   display: block;
   }
  .top-wrapper{
-  height:2000px;
+  height:1700px;
  }
 
  .top-wrapper h1{
@@ -81,6 +81,7 @@
   display:none;
  }
  .footer{
+  float:center;
   text-align:center; 
  }
 }
