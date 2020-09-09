@@ -10,13 +10,15 @@
    width:50%;
    margin-bottom:50px;
  }
- .lesson-icon img{
-  width :350px;
-  height:300px;
- }
+ 
  footer{
    height:300px;
  }
+ .container {
+  max-width: 1000px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
 }
 
 /* Untuk Smartphone */
@@ -24,6 +26,11 @@
   .header-right {
     display: none;
   }
+  .container {
+  max-width: 670px;
+  padding: 0 15px;
+  margin: 0 auto;
+ }
   
   .menu-icon {
   color: white;
@@ -45,10 +52,7 @@
  .heading h2 {
    font-size:20px;
  }
- .lesson-icon img{
-  width :450px;
-  height:350px;
- }
+ 
  
  .lesson{
    width:100%;

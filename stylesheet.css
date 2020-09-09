@@ -22,10 +22,15 @@ li {
   list-style: none;
 }
 
-
-.clear {
-  clear: left;
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
 }
+
+
 
 .container {
   max-width: 1170px;
@@ -59,14 +64,6 @@ li {
   text-align: justify;
 }
 
-.btn-wrapper {
-  text-align: center;
-  margin: 20px 0;
-}
-
-.btn-wrapper p {
-  margin: 10px 0;
-}
 
 
 
@@ -209,10 +206,3 @@ footer{
   padding-bottom: 5px;
 }
 /* Ketik code Anda dibawah */
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
