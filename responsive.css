@@ -9,13 +9,8 @@
  .lesson{
    width:50%;
    margin-bottom:50px;
-   height:450px;
  }
- .footer{
-  width:75%;
- }
- 
- 
+
 }
 
 /* Untuk Smartphone */
@@ -31,10 +26,6 @@
   padding: 21px 0;
   display: block;
   }
- .top-wrapper{
-  width:670px;
-  height:600px;
- }
  .top-wrapper h1{
    font-size:24px;
    line-height:36px;
@@ -48,15 +39,15 @@
  .heading h2 {
    font-size:20px;
  }
- 
- 
+
  .lesson{
-   width:670px;
-   margin-bottom:50px;
-   height:800px;
+   width:100%;
+   
  }
- .footer{
-  width:670px;
+ .copy{
+  display:none;
  }
- 
+ .kelas{
+  display:none;
+ }
 }
