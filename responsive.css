@@ -31,6 +31,10 @@
   padding: 21px 0;
   display: block;
   }
+ .top-wrapper{
+  width:670px;
+  height:100%;
+ }
  .top-wrapper h1{
    font-size:24px;
    line-height:36px;
