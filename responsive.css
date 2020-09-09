@@ -32,8 +32,8 @@
   display: block;
   }
  .top-wrapper{
-  width:670px;
-  height:100%;
+  width:800px;
+  height:3000px;
  }
  .top-wrapper h1{
    font-size:24px;
@@ -53,11 +53,8 @@
  .lesson{
    width:100%;
    margin-bottom:50px;
-   height:600px;
+   height:1000px;
  }
  
- .footer{
-  
-  width:100%;
- }
+ 
 }
