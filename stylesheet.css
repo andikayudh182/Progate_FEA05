@@ -134,8 +134,8 @@ header {
 
 .lesson {
   float: left;
-  width: 25%;
-  height:550px; 
+  width: 33%;
+  height:600px; 
   background-color:white  ;
   margin-bottom: 20px;
 }
@@ -148,8 +148,8 @@ header {
 }
 .lesson-icon img{
   margin-top:10px;
-  width :250px;
-  height:150px;
+  width :300px;
+  height:200px;
   border:2px solid black;
   
 }
@@ -208,7 +208,7 @@ footer{
 .kelas li{
   padding-bottom: 5px;
 }
-
+/* Ketik code Anda dibawah */
 .menu-icon {
   color: white;
   float: right;
