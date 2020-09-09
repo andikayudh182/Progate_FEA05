@@ -26,6 +26,10 @@
   padding: 21px 0;
   display: block;
   }
+ .top-wrapper{
+  height:1000px;
+ }
+
  .top-wrapper h1{
    font-size:24px;
    line-height:36px;
@@ -42,12 +46,41 @@
 
  .lesson{
    width:100%;
-   
+
  }
+
+.txt-contents {
+  width: 100%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 17px;
+  color: black;
+  text-align:justify;
+
+} .lesson-icon img{
+  margin-top:10px;
+  width :100%;
+  height:200px;
+  border:2px solid black;
+ 
+
+}
+.txt-contents {
+  width: 100%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 17px;
+  color: black;
+  text-align:justify;
+
+}
  .copy{
   display:none;
  }
  .kelas{
   display:none;
+ }
+ .footer{
+  text-align:center; 
  }
 }
