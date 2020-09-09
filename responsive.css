@@ -9,9 +9,12 @@
  .lesson{
    width:50%;
    margin-bottom:50px;
+   height:450px;
+ }
+ .footer{
+  width:75%;
  }
  
- }
  
 }
 
@@ -45,6 +48,12 @@
  
  .lesson{
    width:100%;
+   margin-bottom:50px;
+   height:350px;
  }
  
+ .footer{
+  display:flex;
+  width:50%;
+ }
 }
