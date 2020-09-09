@@ -32,8 +32,8 @@
   display: block;
   }
  .top-wrapper{
-  width:700px;
-  height:1000px;
+  width:670px;
+  height:600px;
  }
  .top-wrapper h1{
    font-size:24px;
@@ -55,6 +55,8 @@
    margin-bottom:50px;
    height:800px;
  }
- 
+ .footer{
+  width:670px;
+ }
  
 }
